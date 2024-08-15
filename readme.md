@@ -1,6 +1,6 @@
-Personal project I made for sorting list of directories for necessary rules.
+Project for sorting list of directories for necessary rules.
 
-We have a List<String> with many values like a _"/1_atlas/example.feature"_.
+We have a List<String> with many values like a _"/1_ex/example.feature"_.
 Directories can be with a multi level hierarchy, also include english and russian symbols and numbers.
 
 **Our goal** it is sorting input list for some rules:
@@ -28,7 +28,7 @@ Directories can be with a multi level hierarchy, also include english and russia
 <span style="color: orange; opacity: 0.6;">/atlas/trash/aorting.feature<br></span>
 <span style="color: orange; opacity: 0.5;">/atlas/corting.feature<br></span>
 <span style="color: blue; opacity: 1;">/cards/exampleForCardsTeam.feature<br></span>
-<span style="color: blue; opacity: 0.8;">/cards/Выпуск доп.карты.feature<br></span>
+<span style="color: blue; opacity: 0.8;">/cards/Выпуск.feature<br></span>
 <span style="color: violet; opacity: 0.9;">/BackSystemsDisable.feature<br></span>
 <span style="opacity: 0.9;">/example.feature</span>
 <br>
